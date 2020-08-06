@@ -8,7 +8,7 @@
 
 .app-header {
   background-color: #bcd4d1;
-  background-image: url("/images/Gurjeev.png");
+  background-image: url("./images/Gurjeev.png");
   height: 55vh;
   display: flex;
   -bottom: 10px;
