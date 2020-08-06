@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gurjeevpal/Portfolio/static/css/main.a80ac5c0.chunk.css",
+    "main.js": "/gurjeevpal/Portfolio/static/js/main.34c79183.chunk.js",
+    "main.js.map": "/gurjeevpal/Portfolio/static/js/main.34c79183.chunk.js.map",
+    "runtime-main.js": "/gurjeevpal/Portfolio/static/js/runtime-main.5847bcde.js",
+    "runtime-main.js.map": "/gurjeevpal/Portfolio/static/js/runtime-main.5847bcde.js.map",
+    "static/js/2.ffbb7f8e.chunk.js": "/gurjeevpal/Portfolio/static/js/2.ffbb7f8e.chunk.js",
+    "static/js/2.ffbb7f8e.chunk.js.map": "/gurjeevpal/Portfolio/static/js/2.ffbb7f8e.chunk.js.map",
+    "index.html": "/gurjeevpal/Portfolio/index.html",
+    "precache-manifest.19a803f5ccceab6bb94ce2149faa5e35.js": "/gurjeevpal/Portfolio/precache-manifest.19a803f5ccceab6bb94ce2149faa5e35.js",
+    "service-worker.js": "/gurjeevpal/Portfolio/service-worker.js",
+    "static/css/main.a80ac5c0.chunk.css.map": "/gurjeevpal/Portfolio/static/css/main.a80ac5c0.chunk.css.map",
+    "static/js/2.ffbb7f8e.chunk.js.LICENSE.txt": "/gurjeevpal/Portfolio/static/js/2.ffbb7f8e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/gurjeevpal/Portfolio/static/media/Gurjeev.9462c4cc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5847bcde.js",
+    "static/js/2.ffbb7f8e.chunk.js",
+    "static/css/main.a80ac5c0.chunk.css",
+    "static/js/main.34c79183.chunk.js"
+  ]
+}
